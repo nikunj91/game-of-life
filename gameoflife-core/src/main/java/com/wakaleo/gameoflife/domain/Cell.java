@@ -29,5 +29,3 @@ public enum Cell {
         return symbol;
     }
 }
-
-df
